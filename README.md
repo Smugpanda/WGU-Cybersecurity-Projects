@@ -116,18 +116,17 @@ This repository serves as a comprehensive portfolio of my cybersecurity skills a
 
 This section highlights the tools and techniques I have used throughout my cybersecurity projects. These tools span penetration testing, password cracking, reconnaissance, cloud security, and more. They were applied in various scenarios such as vulnerability assessments, incident response planning, and forensic investigations.
 
-
-### Security Tools
-![Wireshark Badge](https://img.shields.io/badge/-Wireshark-blue)  
-FTK Imager, Autopsy, Nmap/Zenmap, Metasploit, OpenVAS, Nessus
-
----
-
 ### Frameworks & Standards
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [ISO/IEC 27002](https://www.iso.org/standard/73906.html)
 - [Risk Management Framework (RMF)](https://csrc.nist.gov/projects/risk-management)
 - [PCI DSS](https://www.pcisecuritystandards.org/)
+
+---
+
+### Security Tools
+![Wireshark Badge](https://img.shields.io/badge/-Wireshark-blue)  
+FTK Imager, Autopsy, Nmap/Zenmap, Metasploit, OpenVAS, Nessus
 
 ---
 
